@@ -1,4 +1,4 @@
-FROM nodejs:latest
+FROM node:14.16.1
 
 ENV NAME=Abdullah
 
